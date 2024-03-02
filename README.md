@@ -9,7 +9,6 @@
 ## Python Packages Used
    Data Manuplation\
    Data Visualization
-## Codes And Resource Used
 ## Data 
    Data used for this project and source link
 ## Data Preprocessing (Cleaning)
