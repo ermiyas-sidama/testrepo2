@@ -4,9 +4,9 @@
     What is about the project
     What it aims to acheive
 ## Codes And Resource Used
-   *Version python used in this project
-   *Version Tableau used
-   https://img.shields.io/badge/any_text-you_like-blue
+   * Version python used in this project\
+   * Version Tableau used
+   
 ## Python Packages Used
    Data Manuplation\
    Data Visualization
