@@ -4,11 +4,10 @@
     * What is about the project
     * What it aims to acheive
 ## Codes And Resource Used
-   * Version python used in this project\
+   * Version python used in this project
    * Version Tableau used
-   
 ## Python Packages Used
-   * Data Manuplation\
+   * Data Manuplation
    * Data Visualization
 ## Data 
    Data used for this project and source link
