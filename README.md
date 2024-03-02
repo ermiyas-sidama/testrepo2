@@ -7,7 +7,7 @@
     Version python used in this project
     Version Tableau used
 ## Python Packages Used
-   Data Manuplation
+   Data Manuplation\
    Data Visualization
 ## Codes And Resource Used
 ## Data 
