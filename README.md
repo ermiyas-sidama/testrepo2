@@ -21,4 +21,17 @@ https://img.shields.io/badge/FIS-blue-Project_Group_2-red
 ## Data Visualization
 ## Result And Recommendation
 ## Acknowledgments/References
+```python
+# Run this cell without changes
+
+# Check that df is a dataframe
+assert type(df) == pd.DataFrame
+
+# Check that there are the correct number of rows
+assert df.shape[0] == 1460
+
+# Check that there are the correct number of columns
+# (if this crashes, make sure you specified `index_col=0`)
+assert df.shape[1] == 80
+```
 
